@@ -1,12 +1,22 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Tien Dat (hunter)</h1>
+<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<h1 align="left ">Hi 👋, I'm Tien Dat (hunter)</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="left ">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
+<br />
 <br />
 
 
-## 📫 How to reach me:
+## 💫About Me :
+<img src="/resource/gif/Developer.gif" align="right"/>
+
+- 😊 I’m currently learning **Backend** 
+
+- 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
+
+<br />
+
+## 📫 Contact with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/dat-nguyen-4b886b28a/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
