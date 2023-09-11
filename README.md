@@ -34,6 +34,7 @@
 
 ## Languages AND Tools:
 <p align="center">
+<img width="50" height="50" src="https://img.icons8.com/clouds/50/cyber-security.png" alt="cyber-security"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
