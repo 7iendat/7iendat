@@ -1,5 +1,5 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="left ">Hi 👋, I'm Tien Dat (hunter)</h1>
+<h1 align="left ">Hi 👋, I'm Tien Dat (NTD)</h1>
 <p align="center">
   <h3 align="left ">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
@@ -10,9 +10,9 @@
 ## 💫About Me :
 <img src="/resource/gif/Developer.gif" align="right"/>
 
-- 😊 I’m currently learning **Backend** 
+- 😊 I’m currently learning **Data Science** 
 
-- 🌱 I'm 3rd-year student at **University of Transport and Communications campus in HCMC**
+- 🌱 I'm 4rd-year student at **University of Transport and Communications campus in HCMC**
 
 <br />
 
@@ -34,21 +34,16 @@
 
 ## Languages AND Tools:
 <p align="center">
-<img width="50" height="50" src="https://img.icons8.com/clouds/50/cyber-security.png" alt="cyber-security"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
- 
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/> 
 </p>
 
 ## Activities:
