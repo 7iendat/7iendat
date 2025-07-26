@@ -10,10 +10,6 @@
 ## 💫About Me :
 <img src="/resource/gif/Developer.gif" align="right"/>
 
-- 😊 I’m currently learning **Data Science** 
-
-- 🌱 I'm 4rd-year student at **University of Transport and Communications campus in HCMC**
-
 <br />
 
 ## 📫 Contact with me:
